@@ -1,7 +1,8 @@
 package pilasconlistas;
 
 import static pilasconlistas.Metodos.*;
-import	static pilasconlistas.ListasEnlazadas.*;
+import static pilasconlistas.ListasEnlazadas.*;
+
 public class Main {
 
     static Nodo cabeza = null;
